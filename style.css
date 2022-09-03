@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.half-width {
+    padding: 3%;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: orange;
+    font-weight: 500;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.image img {
+    width: 80%;
+    margin-top: 20px;
+}
+.container{
+    display: flex;
+}
+p{
+    width: 500px;
+    text-align: justify;
+    font-size: 12px;
+}
+.top-page{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.photo2 img{
+    width: 60%;
+    margin-left: 20px;
+}
+.middle-page{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.pp{
+    width: 70%;
+}
